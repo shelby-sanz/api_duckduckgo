@@ -1,2 +1,2 @@
-# api_duckduckgo
-trying out the duckduckgo api
+# DuckDuckGo API
+Instant answers API, searched for Presidents of the United States
